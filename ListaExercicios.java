@@ -23,6 +23,7 @@ void adicionarBandas(){
     }
 }
 
+//Metodo que da um print da lista de bandas
 void mostrarListaDeBandas(){
     System.out.println("\n\n\n\n");
     for(int i=0; i<this.numeroDeEntradas;i++){
